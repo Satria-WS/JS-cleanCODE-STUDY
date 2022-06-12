@@ -7,3 +7,5 @@ function toCalculating(n) {
 }
 console.log(typeof(toCalculating("-4")));
 console.log(toCalculating(9));
+console.log(toCalculating(undefined));
+
